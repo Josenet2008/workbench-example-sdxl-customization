@@ -1,0 +1,12 @@
+--- MODELS: Loading Model stabilityai/stable-diffusion-xl-base-1.0 ---
+--- MODELS: Configuring Pipe ---
+--- MODELS: Model is ready for inference ---
+http://localhost:8000
+IMPORTANT: You are using gradio version 4.35.0, however version 4.44.1 is available, please upgrade.
+--------
+Running on local URL:  http://0.0.0.0:8080
+
+To create a public link, set `share=True` in `launch()`.
+--- IMAGES: Image is generating... ---
+--- MODELS: Loading Model: tuned-toy-jensen ---
+--- MODELS: Configuring Pipe ---
